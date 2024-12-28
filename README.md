@@ -20,13 +20,6 @@ This is a simple terminal-based app I built using Python that lets you browse an
 - **All femboys are welcome**: It comes with popular themes such as gruvbox, monokai, dracula, solarized, etc. 
 - **Open Source!**: You can fork it and add your own features? Now that's that good FOSS feeling.
 
-## SAD BUT TRUE
-- The setup.sh only works on Linux for now, if you want to maintain a fork with cross-platform features, please do so!
-
-I do not use Windows but it should seek a PATH where the script is and launch it from there to work, I assume. <br>
-For other systems, it should be similar. Just ensure mpv, python: textual and pathlib is installed. <br>
-Then create a static directory for the script and launch it from there. <br>
-
 ## You convinced me, magic man! [LINUX]
 
 1. Install mpv, duh...
