@@ -39,6 +39,7 @@ This is a simple terminal-based app I built using Python that lets you browse an
 Note: Pathlib should be in your system already, if you don't have it, you can install it.
 
 ## Usage
+**Do not forget to be INSIDE the videos folder, or else. it won't work. (I'm improving on it)** <br>
 Run it with Python and enjoy that good FOSSnerd mechanism.<br>
 To rename a video, just press "R" on the keyboard and a dialog box will appear **BOTTOM** of the screen.<br>
 You might need to scroll down using the scrollbar at the most right.<br>
