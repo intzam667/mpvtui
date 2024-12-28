@@ -38,4 +38,7 @@ Note: Pathlib should be in your system already, if you don't have it, you can in
 Run it with Python and enjoy that good FOSSnerd mechanism.
 
 
+## Future Updates
 
+    I plan to add features for managing files (like renaming or deleting them) VERY SOON, LIKE I'M WORKING ON IT RIGHT NOW.
+    Maybe I’ll add playlist support in the future. DON'T COUNT ON IT.
