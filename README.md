@@ -23,6 +23,9 @@ This is a simple terminal-based app I built using Python that lets you browse an
    sudo dnf install mpv
    sudo zypper install mpv
    sudo apk add mpv
+   ... (and all your other distros)
+
+...sorry I don't know the package manager for your custom FurryBSD
 
 2. Install the necessary Python packages:
    ```bash
@@ -32,10 +35,10 @@ This is a simple terminal-based app I built using Python that lets you browse an
 Note: Pathlib should be in your system already, if you don't have it, you can install it.
 
 ## Usage
-It's your generic python commands, what should I tell you more?
+Run it with python and enjoy that good FOSSnerd mechanism.
+
    ```bash
    python mpvtui.py
 
 
 
-   
