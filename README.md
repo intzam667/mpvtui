@@ -9,7 +9,6 @@ This is a simple terminal-based app I built using Python that lets you browse an
 
 # **UPDATED!**
 - **THE APP NOW HAS RENAMING AND SEARCHING FUNCTIONALITY BAKED IN.** 
-- **(still working on search feature, though)**
 
 ## Why TF?
 
