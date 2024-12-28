@@ -3,6 +3,7 @@
 
 ![test](https://github.com/user-attachments/assets/ed33134d-f713-4ff2-9bfd-1392f539d841)
 
+For Windows version, please refer to the: https://github.com/intzam667/mpvtui-win/ repo <br>
 
 - Sick of using ranger and other various file manager TUI's to manage your videos? Well, me too.
 - You are a computing nerd who hates GUI's for better? Well, me too.
