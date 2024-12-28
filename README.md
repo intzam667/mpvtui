@@ -8,8 +8,9 @@
 This is a simple terminal-based app I built using Python that lets you browse and play video files directly from your tehttps://github.com/intzam667/mpvtuirminal. I used the **Textual** library to create an interactive UI, so you can easily scroll through your videos and play them with **mpv**, all from within the terminal.
 
 # **UPDATED!**
-- **THE APP NOW HAS RENAMING FUNCTIONALITY BAKED IN.** 
+- **THE APP NOW HAS RENAMING AND [WIP SEARCH] FUNCTIONALITY BAKED IN.** 
 - **(still working on search feature, though)**
+- [WIP SEARCH]: The input box is not visible for some reason, but it does function properly, so...
 
 ## Why TF?
 
@@ -19,9 +20,13 @@ This is a simple terminal-based app I built using Python that lets you browse an
 - **Open Source!**: You can fork it and add your own features? Now that's that good FOSS feeling.
 
 ## SAD BUT TRUE
-- It only works on Linux for now, if you want to maintain a fork with cross-platform features, please do so!
+- The setup.sh only works on Linux for now, if you want to maintain a fork with cross-platform features, please do so!
 
-## You convinced me, magic man!
+I do not use Windows but it should seek a PATH where the script is and launch it from there to work, I assume. <br>
+For other systems, it should be similar. Just ensure mpv, python: textual and pathlib is installed. <br>
+Then create a static directory for the script and launch it from there. <br>
+
+## You convinced me, magic man! [LINUX]
 
 1. Install mpv, duh...
    ```bash
@@ -30,7 +35,6 @@ This is a simple terminal-based app I built using Python that lets you browse an
    sudo zypper install mpv
    sudo apk add mpv
    ... (and all your other distros)
-
 ...sorry I don't know the package manager for your custom FurryBSD
 
 2. Install the necessary Python packages:
