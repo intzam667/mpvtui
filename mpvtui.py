@@ -24,11 +24,8 @@ class VideoManagerApp(App):
     }
     Input {
         background: black;
-        color: white;
-        border: solid white;
-        margin: 0 0 1 0;
-        padding: 1;
-    }
+        color: white; 
+        }
     """
 
     def __init__(self, **kwargs):
@@ -132,5 +129,4 @@ class VideoManagerApp(App):
 
 if __name__ == "__main__":
     VideoManagerApp().run()
-
 
