@@ -16,8 +16,10 @@ This is a simple terminal-based app I built using Python that lets you browse an
 - **Scrollbar Included**: TUI with scrollbar is sensual.
 - **Minimalist**
 - **All femboys are welcome**: It comes with popular themes such as gruvbox, monokai, dracula, solarized, etc. 
-- **Cross-Platform**: It works on Linux, macOS, and Windows, as long as you have **mpv** and **Textual** installed.
 - **Open Source!**: You can fork it and add your own features? Now that's that good FOSS feeling.
+
+## SAD BUT TRUE
+- It only works on Linux for now, if you want to maintain a fork with cross-platform features, please do so!
 
 ## You convinced me, magic man!
 
