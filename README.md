@@ -8,9 +8,8 @@
 This is a simple terminal-based app I built using Python that lets you browse and play video files directly from your tehttps://github.com/intzam667/mpvtuirminal. I used the **Textual** library to create an interactive UI, so you can easily scroll through your videos and play them with **mpv**, all from within the terminal.
 
 # **UPDATED!**
-- **THE APP NOW HAS RENAMING AND [WIP SEARCH] FUNCTIONALITY BAKED IN.** 
+- **THE APP NOW HAS RENAMING AND SEARCHING FUNCTIONALITY BAKED IN.** 
 - **(still working on search feature, though)**
-- [WIP SEARCH]: The input box is not visible for some reason, but it does function properly, so...
 
 ## Why TF?
 
