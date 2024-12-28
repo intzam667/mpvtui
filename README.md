@@ -7,6 +7,10 @@
 
 This is a simple terminal-based app I built using Python that lets you browse and play video files directly from your terminal. I used the **Textual** library to create an interactive UI, so you can easily scroll through your videos and play them with **mpv**, all from within the terminal.
 
+# **UPDATED!**
+- **THE APP NOW HAS RENAMING FUNCTIONALITY BAKED IN.** 
+- **(still working on search feature, though)**
+
 ## Why TF?
 
 - **Scrollbar Included**: TUI with scrollbar is sensual.
@@ -35,10 +39,14 @@ This is a simple terminal-based app I built using Python that lets you browse an
 Note: Pathlib should be in your system already, if you don't have it, you can install it.
 
 ## Usage
-Run it with Python and enjoy that good FOSSnerd mechanism.
-
+Run it with Python and enjoy that good FOSSnerd mechanism.<br>
+To rename a video, just press "R" on the keyboard and a dialog box will appear **BOTTOM** of the screen.<br>
+You might need to scroll down using the scrollbar at the most right.<br>
+(sorry Textual widget issues, not mine)<br>
 
 ## Future Updates
-
-    I plan to add features for managing files (like renaming or deleting them) VERY SOON, LIKE I'M WORKING ON IT RIGHT NOW.
     Maybe I’ll add playlist support in the future. DON'T COUNT ON IT.
+
+
+
+
